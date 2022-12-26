@@ -4,3 +4,23 @@ body {
     margin: 0;
 }
 
+.logo,
+.input-search {
+    display: block;
+}
+
+.logo {
+    width: 272px;
+    height: 92px;
+    margin: 100px auto 20px auto;
+}
+
+.input-search {
+    width: 403px;
+    height: 34px;
+    margin: 0 auto;
+    border: solid 1px #dfe1e5;
+    border-radius: 24px;
+    padding: 10px 30px;
+}
+
